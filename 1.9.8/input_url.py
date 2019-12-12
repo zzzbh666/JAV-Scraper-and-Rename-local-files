@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+1.9.8/# -*- coding:utf-8 -*-
 import requests, re, os, configparser, time, hashlib, json, shutil
 from PIL import Image
 
