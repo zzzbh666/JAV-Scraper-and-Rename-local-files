@@ -1,6 +1,7 @@
 # JAV-Scraper-and-Rename-local-files
 收集jav元数据，并规范本地文件（夹）的格式，为emby、kodi、jellyfin收集女优头像。  
 python3.7  使用pyinstaller打包成exe。
+shaerezhou
 
 [点击下载exe](https://github-production-release-asset-2e65be.s3.amazonaws.com/199952692/ef667780-1d3a-11ea-90af-8dfff7c022d6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20191212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191212T163844Z&X-Amz-Expires=300&X-Amz-Signature=2d7a2e5734c806f3eefe42e94d45fb5e126c764d609ee59a42049190593474f3&X-Amz-SignedHeaders=host&actor_id=44168897&response-content-disposition=attachment%3B%20filename%3DV1.9.8%2B.JAVSDT.zip&response-content-type=application%2Foctet-stream)
   或者[从蓝奏云下载](https://www.lanzous.com/i7z0r1a)
